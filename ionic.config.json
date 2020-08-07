@@ -1,0 +1,7 @@
+{
+  "name": "mothershipTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
